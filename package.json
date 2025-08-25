@@ -49,5 +49,6 @@
     "useTabs": false,
     "tabWidth": 2,
     "trailingComma": "es5"
-  }
+  },
+  "packageManager": "yarn@4.9.3"
 }
